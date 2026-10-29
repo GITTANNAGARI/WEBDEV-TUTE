@@ -1,0 +1,17 @@
+semantic tags are normal tags ..these will tells meaning itself(the purpose and theri usage)
+<!-- list:<li>...<ul>,<ol>
+    <ul>
+        (u orederd list).. will arrange the order randomly ny putting the dot at 
+        the begining of the list elements
+    <ol>(orederd list).. -->
+<!-- <li></li>
+<li></li>
+<li></li>  //(li*7)it is used for repeatitng of li tags 
+7 times and it is same for everything i.e how many times
+<li></li>
+<li></li>
+<li></li>
+<li></li>         -->
+
+<!-- <pre></pre>// it will helps to give space iu between -->
+
